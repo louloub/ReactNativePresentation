@@ -13,6 +13,14 @@ const App = () => {
   return (
     <Center> 
       <Image source={require('./LOGO_WCS3.png')} />
+      <Spacer />
+      <Spacer />
+      <Spacer />
+      <Spacer />
+      <Spacer />
+      <Spacer />
+      <Spacer />
+      <Spacer />
       <Button title="Introduction" onPress={ButtonIntroduction}  />
       <Spacer />
       <Button title="Quelques définitions" onPress={ButtonDefinition}  />
